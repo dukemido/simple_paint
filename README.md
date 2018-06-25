@@ -1,4 +1,4 @@
-#Paint
+# Paint
 
 This is a simple paint done in java. The paint supports simple shapes such as Circle,Rectangle, Triangle etc..
 It also supports save/load functions.
